@@ -1,0 +1,10 @@
+﻿{
+  "Name": "PlayerNameTags",
+  "Author": "mrcyclo",
+  "Version": "1.0.0",
+  "Description": "Display player name tags",
+  "UniqueID": "mrcyclo.PlayerNameTags",
+  "EntryDll": "PlayerNameTags.dll",
+  "MinimumApiVersion": "3.18.1",
+  "UpdateKeys": []
+}
